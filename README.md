@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rupesh023
-- 👀 I’m interested in web and android development.
+- 👀 I’m interested in machine learning and data science.
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on 
 - 📫 You can reach me via my email id kumarrupesh230299@gmail.com
